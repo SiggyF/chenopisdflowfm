@@ -5,7 +5,7 @@
 AC_PREREQ(2.59)
 AC_INIT(swanfm, [0.01], [f.baart@tudelft.nl])
 
-AC_CONFIG_SRCDIR([swanfmapp.F90])
+AC_CONFIG_SRCDIR([src/swanfmapp.F90])
 AC_CONFIG_AUX_DIR(config)
 AC_CONFIG_MACRO_DIR(m4)
 AM_INIT_AUTOMAKE
